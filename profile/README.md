@@ -29,7 +29,12 @@ A curated map of the places every student should know: study spots, exam centres
 ### 🧩 Skills & Plugins for Students
 A growing, community-curated collection of skills, plugins, and configs for AI coding tools (Claude Code, Cursor, Copilot, VS Code, and more), organized by what you're trying to do. Copy a folder, drop it into your editor, done. No lock-in, no setup tax. Useful for any student who codes.
 
-➡️ **[Browse the collection](https://github.com/studentsuite/awesome-plugins-and-skills-for-students)**
+➡️ **[Browse the collection](https://github.com/studentsuite/awesome-skills-plugins-for-students)**
+
+### 📚 Awesome Student Resources
+A curated list of the best software, tools, textbooks, channels, and resources for students, organized by subject and by what you're trying to get done. Free, freemium, paid, and open-source picks, each labelled so you know before you click. Shaped by IB, IGCSE, and SAT, open to any student anywhere.
+
+➡️ **[Browse the list](https://github.com/studentsuite/awesome-student-resources)**
 
 ---
 
