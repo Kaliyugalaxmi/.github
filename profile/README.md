@@ -14,6 +14,7 @@ Shaped by rigorous programs like IGCSE and IB, but open to any student, anywhere
 [![Built for students](https://img.shields.io/badge/built%20for-students-4F46E5)](https://github.com/studentsuite)
 [![License: MIT](https://img.shields.io/badge/license-MIT-14B8A6)](LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-4F46E5)](#contribute)
+[![Instagram](https://img.shields.io/badge/instagram-%40studentsuite-E4405F?logo=instagram&logoColor=white)](https://instagram.com/studentsuite)
 
 </div>
 
@@ -62,6 +63,6 @@ You don't need to be an expert. If you solved a problem worth sharing, it belong
 
 <br>
 
-
+**`#4F46E5`** indigo · **`#14B8A6`** teal · MIT licensed
 
 </div>
